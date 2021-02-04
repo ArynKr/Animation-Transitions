@@ -5,3 +5,4 @@
 [1. Button Interaction Animation](Button-Interaction)  
 [2. Bicycle boy SVG Transition](bicycle-boy-transition)
 [3. Text Transition](Text-Animation)
+[4. Touch Slider](touch-slider)
